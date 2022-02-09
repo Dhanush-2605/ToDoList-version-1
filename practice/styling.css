@@ -1,0 +1,32 @@
+body{
+     background-image:linear-gradient(to top right, #434343, #000000); /*-webkit-linear-gradient(to top right, #80FFDB, #5390D9); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: ghostwhite;
+}
+nav{
+    justify-content: center;
+    /* color:#5773ff ; */
+}
+.nav-item{
+    justify-content: space-around;
+
+}
+#gym-img{
+    width: 43%;
+    
+
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 200px;
+    border-radius: 10px;
+    
+}
+
+.btn{
+    color:#337ab7;
+
+}
+.nav-item{
+    justify-content: space-around;
+}
